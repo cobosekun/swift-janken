@@ -12,7 +12,7 @@ struct ContentView: View {
     let hands:Array = [
         ("✊", "グー"),
         ("✌️", "チョキ"),
-        ("🖐️", "パー"),
+        ("🖐️", "パァ^^"),
         ("🫶", "LOVE〜！"),
     ]
     @State var hand:String = " "
